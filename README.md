@@ -25,3 +25,9 @@ Item_Outlet_Sales: Ventas del producto en una tienda particular. Esta la variabl
 Los objetivos para este proyecto son los siguientes:
 1. Analizar el conjunto de datos para obtener datos estadísticos que proponga mejores propuestas para las tiendas en qué productos debiesen tener mayor porcentaje de exhibición y cuáles no.
 2. Tener un modelo de predicción capaz de, valga la redundancia, predecir ventas de estos alimentos considerando el aumento o decremento de los porcentajes del área de exhibición dentro de las tiendas.
+
+# Presentación 
+
+https://drive.google.com/file/d/1JQPdTtb0aGQlofyYEyzWWI0J7wobmuez/view?usp=drivesdk
+
+https://drive.google.com/file/d/1JR3MHBAnI0L8tC_cUuelxIIRaSHB59F3/view?usp=drivesdk
